@@ -12,7 +12,7 @@
 
    Sales > Reports > Lead History
     """,
-    'author': "Debasisa Dash",
+    'author': "Debasish Dash",
     'website': "http://www.fdshive.com",
     'category': 'Tools',
     'version': '0.1',
